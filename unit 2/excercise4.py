@@ -20,4 +20,3 @@ print(stats)
 'The player w/ the most pasing yards is J. Goff'
 #4.
 'J. Mixon has the highest amount of rushing yards in week 1, and S. barkley in week 17'
-
